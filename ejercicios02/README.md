@@ -1,7 +1,3 @@
-Claro, aquí tienes los ejercicios con la historia, pero sin la solución:
-
----
-
 ### Ejercicio 1: Filtrar Adultos
 **Historia**: En una base de datos de empleados, se necesita extraer todos los empleados que son mayores de 18 años.
 
